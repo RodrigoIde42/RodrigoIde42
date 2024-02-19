@@ -13,6 +13,7 @@ I'm a 21 years old Computer Science enthusiast studying at UNIVEM - Marília, SP
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23f1e05a?style=flat&logo=javascript&logoColor=black)
 ![TypeSript](https://img.shields.io/badge/TypeScript-%233178c6?style=flat&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-%23333?style=flat&logo=react)
+![Styled Components](https://img.shields.io/badge/styled%20components-%23fff?style=flat&logo=styledComponents)
 ![NodeJS](https://img.shields.io/badge/nodeJS-%23333?style=flat&logo=node.js)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23e10098?style=flat&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F44D27?style=flat&logo=git&logoColor=white)
