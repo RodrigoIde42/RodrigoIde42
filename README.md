@@ -1,6 +1,6 @@
 # Hi there, I'm Rodrigo Kenji Ide.
 
-I'm a 23 years old Computer Science enthusiast studying at UNIVEM - Marília, SP. I'm passionate about programming and always eager to learn new things.
+I'm a 23 years old Computer Science enthusiast graduated at UNIVEM - Marília, SP. I'm passionate about programming and always eager to learn new things.
 
 ## Github Stats 
 
